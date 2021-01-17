@@ -1,5 +1,5 @@
 
-name: CI
+name: cli success
 
 # Controls when the action will run. 
 on:
