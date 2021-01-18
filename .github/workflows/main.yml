@@ -24,5 +24,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo success
+          echo success publishing website
           echo view page on https://edu.aragon-press.com/
+          echo if browser quits loading due to security
+          echo issues, certificate domain github.com
+          echo then contact kaiete. have fun!
