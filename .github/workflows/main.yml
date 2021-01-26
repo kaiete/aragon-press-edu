@@ -1,5 +1,5 @@
 
-name: cli success
+name: cli echo success
 
 # Controls when the action will run. 
 on:
